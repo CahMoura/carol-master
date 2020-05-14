@@ -1,6 +1,6 @@
 # Sobre
 
-  Este site tem como exclusividade divulgar meu trabalho como Web Designer. 
+  Este site tem como exclusividade divulgar meu trabalho como Desenvolvedora Web. 
   Se tratando de um perfil profissional, dirigindo-se a empresários e empresas que desejam contratar meus serviços.
 
 # Informação

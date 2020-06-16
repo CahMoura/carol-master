@@ -104,10 +104,6 @@ nav#menu li {
 	padding-right: 50px;
 	margin: -2px;
 	transition: background-color 1s;
-    -webkit-transition: background-color 1s;
-    -moz-transition: background-color 1s;
-    -ms-transition: background-color 1s;
-    -o-transition: background-color 1s
 }
 
 
@@ -139,7 +135,6 @@ ul#foto li {
 	border: 5px solid #ffffff;
 	background-color: #ffffff;
 	box-shadow: 1px 1px 3px rgba(0,0,0,.4);
-	-webkit-transition: all .4s ease-in;
 }
 
 ul#foto li span {
@@ -159,7 +154,7 @@ ul#foto li:hover span {
 }
 
 ul#foto li#eu {
-	background: url('F:/Portfolio/c.jpg') no-repeat;
+	background: url('../src/assets/ca.jpg') no-repeat;
 	background-position: 75% 50%;
 	background-size: 200px 200px;
 	background-color: #ffffff;

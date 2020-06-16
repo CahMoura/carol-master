@@ -28,7 +28,6 @@ ul#foto li {
 	background-color: #EFEFFB;
 	margin-top: -250px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,.4);
-	-webkit-transition: all .4s ease-in;
 }
 
 ul#foto li span {
@@ -46,7 +45,7 @@ ul#foto li:hover span {
 }
 
 ul#foto li#eu {
-	background: url('F:/Portfolio/f.jpg') no-repeat;
+	background: url('../assets/eu+nasa.jpg') no-repeat;
 	background-position: 85% 75%;
 	background-size: 200px 300px;
 	background-color: #ffffff;
@@ -66,8 +65,4 @@ aside#lateral3 h1 {
 	padding-left: 350px;
 	width: 100px;
 	margin-top: auto;
-}
-
-aside#lateral3 p{
-
 }

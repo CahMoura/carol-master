@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+aside#lateral {
+	width: 350px;
+	background-color: #021521;
+	color: #ffffff;
+	padding: 30px;
+	padding-right: 500px;
+	padding-left: 50px; 
+	margin-top: 0px;
+	box-shadow: 1px 1px 1px rgba (0,0,0,0) 
+}
+
+aside#lateral p {
+	width: 1000px;
+	margin: auto;
+}

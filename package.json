@@ -1,5 +1,10 @@
 {
   "devDependencies": {
     "gh-pages": "^3.0.0"
+  },
+  "dependencies": {
+    "Build": "0.0.1-dev",
+    "angular-cli-ghpages": "^0.6.2",
+    "build": "^0.1.4"
   }
 }

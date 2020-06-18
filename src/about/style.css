@@ -5,12 +5,12 @@ article#sobre {
 	padding: 10px;
 	padding-right: 30px;
 	margin-top: 0px;
-	box-shadow: 2px 2px 2px rgba (0,0,0,.5);
+	box-shadow: 2px 2px 2px rgba (0,0,0,.5); 
 }
 
 
 article#sobre p {
-	width: 500px;
+	width: 500px; 
 	margin: auto;
 	font-size: 18px;
 }
@@ -20,20 +20,34 @@ ul#foto {
 }
 
 ul#foto li {
-	float: center;
-	width: 600px;
-	height: 350px;
-	margin: 90px;
+	float: left;
+	width: 200px;
+	height: 300px;
+	margin:10px;
 	border: 5px solid #ffffff;
 	background-color: #EFEFFB;
-	margin-top: 30px;
+	margin-top: -250px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,.4);
+}
+
+ul#foto li span {
+	opacity: 0;
+	color: #EFEFFB;
+	text-shadow: 1px 1px 1px #000000;
+	background-color: rgba(0,0,0,.3);
+	font-size: 9pt;
+	line-height: 370px;
+	padding: 5px;
+}
+
+ul#foto li:hover span {
+	opacity: 1;
 }
 
 ul#foto li#eu {
 	background: url('../assets/eu+nasa.jpg') no-repeat;
-	background-position: 85% 85%;
-	background-size: 600px 350px;
+	background-position: 85% 75%;
+	background-size: 200px 300px;
 	background-color: #ffffff;
 }
 
@@ -41,7 +55,7 @@ aside#lateral3{
 	display: block;
 	padding: 10px;
 	margin-top: 0px;
-	box-shadow: 2px 2px 2px rgba (0,0,0,.5);
+	box-shadow: 2px 2px 2px rgba (0,0,0,.5); 
 }
 
 aside#lateral3 h1 {

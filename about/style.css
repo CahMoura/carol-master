@@ -30,20 +30,6 @@ ul#foto li {
 	box-shadow: 1px 1px 3px rgba(0,0,0,.4);
 }
 
-ul#foto li span {
-	opacity: 0;
-	color: #EFEFFB;
-	text-shadow: 1px 1px 1px #000000;
-	background-color: rgba(0,0,0,.3);
-	font-size: 9pt;
-	line-height: 370px;
-	padding: 5px;
-}
-
-ul#foto li:hover span {
-	opacity: 1;
-}
-
 ul#foto li#eu {
 	background: url('../assets/eu+nasa.jpg') no-repeat;
 	background-position: 85% 75%;

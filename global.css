@@ -154,7 +154,7 @@ ul#foto li:hover span {
 }
 
 ul#foto li#eu {
-	background: url('../src/assets/ca.jpg') no-repeat;
+	background: url('./assets/ca.jpg') no-repeat;
 	background-position: 75% 50%;
 	background-size: 200px 200px;
 	background-color: #ffffff;

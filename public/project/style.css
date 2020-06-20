@@ -12,7 +12,7 @@ article#sobre {
 article#sobre p {
 	width: 500px; 
 	margin: auto;
-	font-size: 30pt;
+	font-size: 20pt;
 }
 
 ul#foto {
@@ -31,7 +31,7 @@ ul#foto li {
 }
 
 ul#foto li#eu {
-	background: url('../assets/eu+nasa.jpg') no-repeat;
+	background: url('../../src/assets/eu+nasa.jpg') no-repeat;
 	background-position: 85% 85%;
 	background-size: 800px 500px;
 	background-color: #ffffff;

@@ -92,8 +92,7 @@ nav#menu {
 nav#menu ul {
 	list-style: none;
 	top: -20px;
-	left: 70px;
-	
+	left: 100px;
 	position: absolute;
 }
 
@@ -105,7 +104,6 @@ nav#menu li {
 	font-size: 20px;
 	padding-left: 70px;
 	padding-right: 70px;
-	padding-inline-start: inherit;
 	margin: 0px;
 }
 
